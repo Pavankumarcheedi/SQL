@@ -10,7 +10,7 @@
 
 A project to analyze top NFT collections using advanced SQL techniques such as subqueries, CTEs, and window functions.
 
-- 📁 Dataset: `NFT_sales_data_analysis`
-- 💻 Query File: `NFT_sales_data_analysis`
+- 📁 Dataset: `NFT_Top_Collections.csv`
+- 💻 Query File: `nft_top_collections.sql`
 
 ---
