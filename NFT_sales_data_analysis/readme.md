@@ -2,6 +2,11 @@
 
 This project involves analyzing a dataset of NFT (Non-Fungible Token) collections using **advanced SQL techniques** such as subqueries, Common Table Expressions (CTEs), and window functions.
 
+## 📦 About the Datasets
+
+The datasets used in these projects are publicly available and sourced primarily from platforms like [Kaggle](https://www.kaggle.com/) and open data repositories. All files are used strictly for educational and learning purposes.
+
+
 ---
 
 ## 📊 Dataset Overview
