@@ -6,7 +6,7 @@
 
 ## 🔍 Projects
 
-### 🔗 [NFT Sales Data Analysis](./NFT_Sales_Data_Analysis)
+### 🔗 [NFT Sales Data Analysis](./NFT_sales_data_analysis)
 
 A project to analyze top NFT collections using advanced SQL techniques such as subqueries, CTEs, and window functions.
 
